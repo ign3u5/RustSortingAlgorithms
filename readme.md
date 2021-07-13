@@ -1,0 +1,2 @@
+# Contributing
+Trunk based development. Create Feature/**YOUR FEATURE NAME**/main. This will have branch policies automatically applied to it. Then create Feature/**YOUR FEATURE NAME**/**SUB FEATURE**.
